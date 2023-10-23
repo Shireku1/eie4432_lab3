@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Bubble Milk Tea",
+        "type": "Classic Drinks",
+        "price": "$15 (S), $20 (M), $25 (L)",
+        "image": "assets/bubble-milktea.png"
+    },    
+    {
+        "name": "Caramel Macchiato",
+        "type": "Coffee",
+        "price": "$18 (S), $23 (M), $28 (L)",
+        "image": "assets/caramel-macchiato.jpg"
+    },
+    {
+        "name": "Iced Latte",
+        "type": "Coffee",
+        "price": "$17 (S), $22 (M), $27 (L)",
+        "image": "assets/iced-latte.jpg"
+    },
+    {
+        "name": "A",
+        "type": "Unknown",
+        "price": "$17 (S), $22 (M), $27 (L)",
+        "image": "assets/A.PNG"
+    },
+    {
+        "name": "B",
+        "type": "Unknown",
+        "price": "$17 (S), $22 (M), $27 (L)",
+        "image": "assets/B.PNG"
+    },
+    {
+        "name": "C",
+        "type": "Unknown",
+        "price": "$17 (S), $22 (M), $27 (L)",
+        "image": "assets/C.PNG"
+    },
+    {
+        "name": "D",
+        "type": "Unknown",
+        "price": "$17 (S), $22 (M), $27 (L)",
+        "image": "assets/D.PNG"
+    },
+    {
+        "name": "E",
+        "type": "Unknown",
+        "price": "$17 (S), $22 (M), $27 (L)",
+        "image": "assets/E.PNG"
+    },
+    {
+        "name": "F",
+        "type": "Unknown",
+        "price": "$17 (S), $22 (M), $27 (L)",
+        "image": "assets/F.PNG"
+    },
+    {
+        "name": "G",
+        "type": "Unknown",
+        "price": "$17 (S), $22 (M), $27 (L)",
+        "image": "assets/G.PNG"
+    }
+]
